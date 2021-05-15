@@ -8,30 +8,56 @@ body{
 .mother-div {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
-    
+    justify-content: center; 
 }
-
-
 
 .first{
     flex: 1;
     font-size: 20px;
     background-color: #292a2d;
     color: #64b5f6;
-    padding-left: 13%;
-    padding-right: 5%;
+    padding-left: 9%;
+    padding-right: 8%;
     padding-top: 18%;
-    padding-bottom: 25%;
-    
-    
-    
+    padding-bottom: 4%;   
 }
+
 .second {
     flex: 1 1;
-    padding-left: 8%;
-    padding-right: 0%;
-    padding-top: 15%;
-    padding-bottom: 25%;
     font-size: 25px;
+    padding-left: 7%;
+    padding-right: 0%;
+    padding-top: 14%;
+    padding-bottom: 4%;
+    background-image: url(./image/aks.jpg);
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: center;
+    
 }
+
+
+.fourth {
+    margin-top: 21%;
+    margin-bottom: 0%;
+    font-size: 13px;
+}
+
+.fifth {
+        margin-top: 2%;
+        width: 50%;
+        padding: 4%;
+        background-color: #75a5e4;
+        color: black;
+        font-size: 20px;
+        border-radius: 10px;
+        font-weight: 500;
+    }
+
+
+    .sixth {
+        margin-left: 80%;
+
+    }
+    
