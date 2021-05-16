@@ -1,8 +1,10 @@
+@font-face{
+    src: url(./raleway.ttf);
+}
 body{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .mother-div {
@@ -19,7 +21,7 @@ body{
     padding-left: 9%;
     padding-right: 8%;
     padding-top: 18%;
-    padding-bottom: 4%;   
+    padding-bottom: 4.2%;   
 }
 
 .second {
@@ -28,7 +30,7 @@ body{
     padding-left: 7%;
     padding-right: 0%;
     padding-top: 14%;
-    padding-bottom: 4%;
+    padding-bottom: 4.2%;
     background-image: url(./image/aks.jpg);
     background-size: 30%;
     background-repeat: no-repeat;
